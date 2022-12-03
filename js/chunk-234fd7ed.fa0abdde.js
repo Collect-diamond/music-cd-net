@@ -323,7 +323,7 @@
 													  ]
 													: [
 															t._v(
-																"Welcoem to CD's Music Page"
+																"Welcome to CD's Music Page"
 															),
 													  ],
 											],
@@ -808,7 +808,7 @@
 									: [
 											i("dd", [
 												t._v(
-													"Welcoem to CD's Music Page"
+													"Welcome to CD's Music Page"
 												),
 											]),
 									  ],

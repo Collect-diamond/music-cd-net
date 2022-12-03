@@ -1191,7 +1191,7 @@
 											e.$mmToast(
 												"".concat(
 													e.user.nickname,
-													" Welcoem to CD's Music Page"
+													" Welcome to CD's Music Page"
 												)
 											);
 										}, 200);
@@ -1398,7 +1398,7 @@
 				n();
 		}),
 			(window.mmPlayer = window.mmplayer =
-				"Welcoem to CD's Music Page\n程序版本：V".concat(
+				"Welcome to CD's Music Page\n程序版本：V".concat(
 					c["a"],
 					"\n程序作者：茂茂\nGithub：https://github.com/maomao1996/Vue-mmPlayer\n歌曲来源于网易云音乐 (https://music.163.com)"
 				)),
