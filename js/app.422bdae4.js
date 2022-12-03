@@ -431,7 +431,7 @@
 		var r = n("82ae"),
 			i = n.n(r),
 			o = n("430a"),
-			a = i.a.create({ baseURL: "qwqhttps://api.music.imsyy.top/" });
+			a = i.a.create({ baseURL: "https://api.music.imsyy.top/" });
 		a.interceptors.response.use(
 			function (t) {
 				return (
@@ -524,7 +524,7 @@
 				params: { offset: e * n, limit: n, id: t },
 			});
 		}
-		c.defaults.baseURL = "qwqhttps://api.music.imsyy.top/";
+		c.defaults.baseURL = "https://api.music.imsyy.top/";
 	},
 	"36ba": function (t, e, n) {
 		var r = {
